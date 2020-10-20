@@ -1,6 +1,6 @@
 ## Welcome to NJU GRID Pages
 
-[image2020-9-30_8-6-55.png]
+[image2020-9-30_8-6-55.png](image2020-9-30_8-6-55.png)
 
 
 ### Markdown
