@@ -30,9 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 163 Xianlin Ave.
 
-
 Qixia Dist.
-
 
 Nanjing, Jiangsu Prov.
 
