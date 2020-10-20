@@ -1,4 +1,4 @@
-## Welcome to NJU GRID GitHub Pages
+## Welcome to NJU GRID Pages
 
 ![Group Photo](image2020-9-30_8-6-55.jpg)
 
