@@ -2,7 +2,7 @@
 
 ![Group Photo](image2020-9-30_8-6-55.jpg)
 
-[link](/page1.md)
+[点这里](/page1.md)
 
 
 ### Contact
