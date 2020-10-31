@@ -1,6 +1,6 @@
 ## Welcome to NJU GRID Pages
 
-![Group Photo](image2020-9-30_8-6-55.jpg)
+![Group Photo](photos\image2020-9-30_8-6-55.jpg)
 
 [点这里](/page1.md)
 
